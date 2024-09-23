@@ -23,6 +23,7 @@ const themeConfig = {
                     collapsed: true,
                     items: [
                         { text: '基础语法', link: '/vue/base.md' },
+                        { text: '阿里字体图标封装', link: '/vue/iconModule.md' },
                     ]
                 },
                 {

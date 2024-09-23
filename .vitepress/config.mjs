@@ -5,6 +5,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 
 export default defineConfig({
+  base: "/nn122500",
   head:[
     ['link',{rel:'icon',href:'/sq.svg'}]
   ],
@@ -63,6 +64,7 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: '基础语法', link: '/vue/base.md' },
+              { text: '阿里字体图标封装', link: '/vue/iconModule.md' },
             ]
           },
           {
