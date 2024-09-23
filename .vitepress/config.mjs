@@ -5,7 +5,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 
 export default defineConfig({
-  base: "/nn122500",
+  base: "/nn122500/.vitepress",
   head:[
     ['link',{rel:'icon',href:'/sq.svg'}]
   ],
