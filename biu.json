@@ -1,0 +1,11 @@
+{
+  "version": "1.0.46",
+  "notes": "kestrel-task",
+  "pub_date": "2099-06-24T01:57:18.253Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5V1BxZ0hSM0MyaFA2MUN4dEcwTy9oS3g0ZnE0bzZNczVqa2xFdENwVjNSOEFBQkFBQUFBQUFBQUFBQUlBQUFBQTBEZ01MTXVnUWV6Y3FMUjhyemZQaXRza3dDYW0vNXF4aVpSNjdiTGxZZHhTT3RuOVkvVWRvMDFzamRKMkdraEhDaFhjcWMwc2c0S1RiMkcvck03bGthVFg2ZU1CVThtZ0psL1Fqb3NJTkVhRXVNeWJHZG55bkhMTXRkczlBOTBxc1kvRmd3NERlcDg9Cg==",
+      "url": "http://8.147.128.227/test.zip"
+    }
+  }
+}
