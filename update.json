@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeWNjb1VCWkt1aEZGRExjb1BGTHROSk55RTd2NStqUzZ2dkNDYkFEYzZNc1p3bFN4WUJpRnBudFROZGlzQk1PVWVlbndGZGlXTU5QeWxKSDFXajhMT3NPa3RVWkJCTlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2Nzc3MTg2CWZpbGU6dGF1cml0ZXN0XzAuMS4xX3g2NF96aC1DTi5tc2kKbHpCdG9jT3JhVmxWRGFOcVhBdm5RQVNVdnlNbEREd2RLUUlkVUdqdVlSSjl3MytjTDBxelBNdGR6VkI4MGJFODBzSEVjcEpmc3M5WU9vcmlsWk82REE9PQo=",
-      "url": "http://8.147.128.227/tauritest_0.1.1_x64_zh-CN.msi"
+      "url": "https://raw.githubusercontent.com/glglyyds/nn122500/refs/heads/master/tauritest_0.1.1_x64_zh-CN.msi"
     }
   }
 }
